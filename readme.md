@@ -18,10 +18,10 @@ where
 
 ## Functions included
 
-1. data_generate.m	Generate two classes of observations.
+1. data_generate.m:	Generate two classes of observations.
 
-2. get_similarity.m	Compute the similarity of every pair of obbservations.
+2. get_similarity.m:	Compute the similarity of every pair of obbservations.
 
-3. get_sitBehind.m	For each observation i, it returns the customers who sitwith i.
+3. get_sitBehind.m:	For each observation i, it returns the customers who sitwith i.
 
-4. sdCRP.m		Returns the table label for every customer.
+4. sdCRP.m:		Returns the table label for every customer.
